@@ -1,2 +1,2 @@
 # fyit_c
-My First Demo
+My First Demo in lab
